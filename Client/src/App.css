@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  align-self: flex-start;
+}
+body {
+  background-image: url(./img/1002493.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
